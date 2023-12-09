@@ -25,17 +25,18 @@ function test() {
 
 <template>
   <!-- 内容 -->
-  <h1>{{ yiyan }}</h1>
+  <!-- <h1>{{ yiyan }}</h1>
   <br>
   <h1 class="text" @click="test">{{ msg }}</h1>
   <br>
   <input type="text" v-model="msg">
-  <br>
+  <br> -->
   <!-- 控制窗体页面展示 -->
   <div>
     <api />
   </div>
   <br>
+
 </template>
 
 <style scoped>
