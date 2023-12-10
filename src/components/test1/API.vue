@@ -1,7 +1,7 @@
 <script setup>
 import { onBeforeMount, onMounted, ref } from 'vue';
 import axios from 'axios';
-// import {f} from '@/components/API.js';
+//import {f} from '@/components/API.js';
 
 let ans = ref();
 let request = ref({
