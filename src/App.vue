@@ -15,4 +15,6 @@ import art from './components/test2/Art.vue'
 
 
 
-<style scoped></style>
+<style scoped>
+
+</style>
